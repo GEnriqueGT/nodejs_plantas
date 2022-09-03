@@ -16,7 +16,31 @@ function PlantasIniciales() {
             {
                 letra: "SSLM",
                 dato: 80
-            }]
+            },{
+              letra: "SSED",
+              dato: 15
+          },
+          {
+              letra: "OD",
+              dato: 70
+          },
+          {
+              letra: "NT",
+              dato: 80
+          },
+          {
+            letra: "PT",
+            dato: 15
+        },
+        {
+            letra: "DBO",
+            dato: 70
+        },
+        {
+            letra: "SS",
+            dato: 80
+        },
+          ]
           },{
             mall: "Pradera Zacapa",
             contents: [{
@@ -30,7 +54,30 @@ function PlantasIniciales() {
             {
                 letra: "SSLM",
                 dato: 70
-            }]
+            },{
+              letra: "SSED",
+              dato: 15
+          },
+          {
+              letra: "OD",
+              dato: 70
+          },
+          {
+              letra: "NT",
+              dato: 80
+          },
+          {
+            letra: "PT",
+            dato: 15
+        },
+        {
+            letra: "DBO",
+            dato: 70
+        },
+        {
+            letra: "SS",
+            dato: 80
+        },]
           },{
             mall: "Pradera Huehuetenango",
             contents: [{
@@ -44,7 +91,30 @@ function PlantasIniciales() {
             {
                 letra: "SSLM",
                 dato: 50
-            }]
+            },{
+              letra: "SSED",
+              dato: 15
+          },
+          {
+              letra: "OD",
+              dato: 70
+          },
+          {
+              letra: "NT",
+              dato: 80
+          },
+          {
+            letra: "PT",
+            dato: 15
+        },
+        {
+            letra: "DBO",
+            dato: 70
+        },
+        {
+            letra: "SS",
+            dato: 80
+        },]
           });
       }
     });
